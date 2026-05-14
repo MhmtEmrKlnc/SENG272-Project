@@ -6,6 +6,8 @@
 
 SENG272 - hw3 - ISO 15939 Measurement Process
 
+VIDEO LINK: https://youtu.be/3PDyuQf3iOc
+
 Requirements and Design Document: https://github.com/MhmtEmrKlnc/lab3-iso15939/blob/main/Seng272_RequirementsAndDesign_MehmetEmreKilinc.docx
 
 ## Compilation and Run Instructions
